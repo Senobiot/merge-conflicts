@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Alex Kulik Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -11,11 +11,11 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 
-resume_name:                    "GitHub Teacher"
-resume_title:                   "Professional Trainer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
+resume_name:                    "Alex Kulik"
+resume_title:                   "Trainee Front-End Developer"
+resume_contact_email:           "inter_net@tut.by"
+resume_contact_telephone:       "+375-25-709-23-52"
+resume_contact_address:         "Minsk, Belarus"
 resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
 resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
 
