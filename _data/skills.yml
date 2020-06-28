@@ -1,9 +1,15 @@
 # Skills
 
 # Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+- skill: HTML5, CSS3, SCSS
+  description: Above the average level
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# JS
+- skill: JS, Jquery
+  description: Slightly above entry level: working with DOM elements, create sliders, feedback forms and validate, algorithms and so on.
+  
+  # Gulp
+- skill: Gulp, Git
+  description: Working with gulp plugins, remote git repositories.
+  
+  
